@@ -1,10 +1,10 @@
 # DB-03
 
 
-
-## create database MyGame
+create database MyGame
 
 use MyGame
+
 create table users (
 	userId int primary key,
 	userName varchar(25),
